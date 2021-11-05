@@ -1,0 +1,4 @@
+
+使用colab建立暫時的v2ray server
+(Using colab for v2ray, free google cloud temporary proxy/vpn)
+https://www.youtube.com/watch?v=DxsQ-g1LfgA
