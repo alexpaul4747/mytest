@@ -2,3 +2,9 @@
 使用colab建立暫時的v2ray server
 (Using colab for v2ray, free google cloud temporary proxy/vpn)
 https://www.youtube.com/watch?v=DxsQ-g1LfgA
+
+
+
+使用Heroku建立暫時的v2ray server
+(Install V2ray Without VPS | Free V2ray | V2ray Heroku)
+https://www.youtube.com/watch?v=4t15OUbE-6s
